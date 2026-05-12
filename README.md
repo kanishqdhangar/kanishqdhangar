@@ -50,13 +50,14 @@ I'm a final-year CS student at Central University of Haryana with 1+ years of in
 
 ## 📈 GitHub Stats
 
-![Kanishq's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kanishqdhangar&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kanishqdhangar&layout=compact&theme=tokyonight&hide_border=true)
+![Kanishq's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kanishqdhangar&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kanishqdhangar&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800)
 
 ---
 
 ## 📫 Connect With Me
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://kanishqportfolio.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://portfolio-kanishqdhangars-projects.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kanishq-dhangar/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:dhangarkanishq@gmail.com)
+[![Resume](https://img.shields.io/badge/Resume-4285F4?style=flat&logo=googledrive&logoColor=white)](https://drive.google.com/drive/folders/19E2EzDrnKLfWJdWaV8wPFzPF7Or6bwEX?usp=drive_link)
