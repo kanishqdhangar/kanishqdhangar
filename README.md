@@ -10,7 +10,7 @@ I'm a final-year CS student at Central University of Haryana with 1+ years of in
 
 | Project | Description | Stack |
 |---|---|---|
-| [3D Model Viewer](https://github.com/kanishqdhangar/3d-model-viewer) | Full-stack 3D model viewer deployed on AWS with two-token JWT auth and pre-signed S3 URLs | React, Three.js, Node.js, AWS EC2/S3/CloudFront, Docker |
+| [3D Model Viewer](https://github.com/kanishqdhangar/threejs) | Full-stack 3D model viewer deployed on AWS with two-token JWT auth and pre-signed S3 URLs | React, Three.js, Node.js, AWS EC2/S3/CloudFront, Docker |
 | [Resume Parser Microservice](https://github.com/kanishqdhangar/resume-parser) | AI-powered resume parsing with async job processing and multi-stage OCR → LLM pipeline | FastAPI, Gemini 2.5 Flash, Celery, Redis, Docker |
 | [VoteFlow](https://github.com/kanishqdhangar/voteflow) | Real-time polling platform with race-condition safe voting and live vote updates | MERN, TypeScript, Socket.IO |
 | [Internship Portal](https://github.com/kanishqdhangar/internship-portal) | Internship management platform with RBAC, secure file uploads, and automated email workflows | React, Django REST, PostgreSQL |
