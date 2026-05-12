@@ -48,13 +48,6 @@ I'm a final-year CS student at Central University of Haryana with 1+ years of in
 
 ---
 
-## 📈 GitHub Stats
-
-![Kanishq's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kanishqdhangar&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kanishqdhangar&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800)
-
----
-
 ## 📫 Connect With Me
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://portfolio-kanishqdhangars-projects.vercel.app/)
